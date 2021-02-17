@@ -8,7 +8,7 @@
 import XCTest
 @testable import _8Point6SDTest
 
-class _8Point6SDTestTests: XCTestCase {
+class _98Point6SDTestTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
